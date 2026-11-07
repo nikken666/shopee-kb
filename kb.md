@@ -244,7 +244,9 @@
 2. 買家**沒講年份**（例如只說「Bezza facelift」）→ **先問年份**，例如「Bos punya Bezza tahun berapa ye?」
 3. 點開產品，看**標題**、**產品描述（文案）**和**產品圖片**上寫的適用車型和年份
 4. 標題、文案、圖片**有寫**買家的車型和年份（例如標題寫「Yaris 2014-2022」，買家問 Yaris 2020）→ 回答可以用
-5. 標題、文案、圖片**都沒有寫**買家的車型 → 回答**不適合**
+5. 標題、文案、圖片**都沒有寫**買家的車型 → **不要直接說不適合**，先請買家稍等，再轉老闆確認：
+   - BM：「Sekejap ye bos, kami check dulu untuk kereta bos 🙏」
+   - EN：「Wait a moment ya boss, we check for your car first 🙏」
 6. 有寫車型但年份範圍模糊、寫法看不懂 → 回「客服在忙，會盡快回覆你」，**轉老闆**
 
 ⚠️ **不要跟買家解釋你是怎麼判斷的**。不能說「因為標題沒有寫」「產品描述沒提到」之類的話，直接客氣地講結果就好。
@@ -259,7 +261,7 @@
 - EN：「Can fit boss 👍 Yaris 2020 can use ya」
 - 中：「可以用的哦老闆 👍 Yaris 2020 適合的」
 
-確定不適合（不解釋原因，語氣要軟）：
+確定不適合（老闆確認過不適合後才用；不解釋原因，語氣要軟）：
 - BM：「Maaf ye bos 🙏 yang ni x sesuai untuk Alza 2016. Kalau bos cari barang lain untuk Alza, boleh tanya kami ye 😊」
 - EN：「Sorry boss 🙏 this one not suitable for Alza 2016 ya. If boss looking for other parts for Alza, can ask us ya 😊」
 - 中：「不好意思哦老闆 🙏 這個 Alza 2016 用不到哦。如果要找 Alza 其他配件，可以問我們 😊」
@@ -354,7 +356,10 @@
 ## 3.4 產品知識（老闆教的，可以直接回答）
 
 - Toyota **Yaris 2020** 用 **CVT** 變速箱 → CVT fluid 適用
-- **機油**：一台車 **4 公升**一般足夠
+- **機油容量**：一般轎車 **4 公升**就夠；**SUV 可能要 5 公升**。建議買家查自己的 **car owner manual book**
+  - BM：「Biasanya 4 liter cukup bos, kalau SUV mungkin 5 liter. Boleh check juga dalam car owner manual book ye 👍」
+- **冷卻液（coolant）容量**：通常 **4–5 公升**，請買家查 **car owner manual book** 確認
+  - BM：「Biasanya coolant 4-5 liter bos, tapi lebih baik check dalam car owner manual book ye 👍」
 - **ATF**：一台車 **4 公升**一般足夠
 - **Perodua ATF 只有 1 公升裝**，一台車買 **4 瓶**
 - **Auto filter 有沒有賣要看車型**：先問買家車型和年份，到 Product 分頁搜尋那個車型的 auto filter，有就發連結；找不到就照「不確定」處理（回客服在忙，轉老闆）
@@ -416,7 +421,9 @@
 - **問「為什麼還沒到」（例如 COD 訂單已出貨 10 天）**→ 叫買家去問 **Shopee customer service**。BM：「Bos boleh tanya Shopee customer service ye untuk check status parcel tu 🙏」
 - **問避震器為什麼這麼硬** → 我們的產品都是原廠的，原廠就是這樣硬。BM：「Barang kami semua original bos, memang original macam tu keras sikit ye 👍」
 - **買家說訂的數量、容量、規格不對（例如想要 1.2L）**→ **先打開他的 Order 分頁看他實際下的單**，再回。例：Motul 7100 他下的是 1L 裝，我們店沒有 1.2L，要按訂單和店裡有賣的規格回答
-- **避震器左右兩邊不一樣**：老闆還沒有教，先要照片和訂單號，再轉老闆
+- **避震器左右兩邊不一樣**：避震器本來就是**左右兩邊不一樣**的（**Myvi、Saga 除外**）。先問買家是什麼車型，看他**有沒有買錯車型**
+  - BM：「Absorber memang kiri & kanan lain sikit bos 🙏 boleh bagitahu model kereta & tahun? Kami check bos beli yang betul ke tak」
+  - 如果是 Myvi、Saga 左右不一樣，或確定買錯 → 轉老闆
 
 ## 3.42 其他回覆規則（從另一個排程合併過來的）
 
@@ -430,6 +437,53 @@
 - **同一個買家在兩間店都問** → 兩邊都要回，但**用不同的講法**，不要像複製貼上
 - **不要用「batalkan」這個字**（Duoke 敏感詞），取消訂單用「cancel」
 - **買家說 ok、thank you、tq 或傳貼圖（問題已經回答完）** → **回一個 Shopee 貼圖**，不用打字（發法見操作指令「特殊訊息」）
+
+## 3.46 常見問題（老闆 2026-11-07 回答）
+
+**問尺寸、直徑、零件號碼（part number / code）**
+- 先問清楚是**哪個零件**（看商品卡片或問買家）
+- 規格在 Shopee 產品照片或標題上看得到 → 請買家看 Shopee 上的照片：「Bos boleh tengok gambar produk kat Shopee ye, ada tulis spec dia 👍」
+- 照片上沒有、或買家要的是 part number → 回「客服在忙」，轉老闆
+
+**問推薦哪款機油**
+- 先問車型和年份，到 **Product 分頁**找適合那個車型的機油，**發產品卡**給買家
+- 不確定車型 → 發 **Shell** 或 **Castrol** 的機油給他
+
+**問全套（full set）有沒有包含某樣東西**
+- 先看買家問的是**哪個產品**，打開產品看標題、描述、圖片再回答（見操作說明）
+
+**買家說價格貴、別家比較便宜**
+- 簡單回 OK 就好，不要爭論：「OK bos 🙏」
+
+**訂單被取消**
+- 只叫他問 Shopee customer service，其他不用講
+
+**買很多樣東西，可以一起寄嗎？運費多少？**
+- 請買家**自己下單看看**運費；如果不能一起，**盡量分開下單**，比較好包裝，物流和派送員也方便
+- BM：「Bos boleh cuba order dulu, nanti nampak shipping fee 👍 kalau tak boleh, boleh order berasingan ye, lagi senang kami pack & courier pun senang hantar」
+
+**可以分期、SPayLater、刷卡嗎？**
+- 請買家在 checkout 自己試試看有沒有這個選項
+- BM：「Bos boleh cuba masa checkout ye, kalau ada option tu boleh terus pilih 👍」
+
+**機油生產日期、有效期限**
+- 「Masih dalam tempoh tamat tempoh ye bos, jangan risau 👍」（都還在有效期內）
+
+**怎麼證明是 original**
+- 「Kami jual semua barang original ye bos 👍」（我們賣的都是 original）
+
+**買家說太小、裝不上（例如「Kecil ni」）**
+1. 先問車型和年份，看他**連結有沒有買錯**
+2. 沒買錯 → 叫他找 **foreman（師傅）**裝：「Boleh panggil foreman cuba pasang ye bos 👍」
+3. 買錯了 → 回「客服在忙」，轉老闆
+
+**問什麼時候 restock、缺貨**
+- 不確定 → 回「客服在忙」，轉老闆
+
+**要求加送贈品、免運、送 voucher**
+- 客氣地說已經很便宜了，基本沒有賺錢；需要的話可以下單
+- BM：「Maaf bos 🙏 harga kami dah sangat murah, memang tak banyak untung dah. Kalau bos berminat boleh terus order ye 😊」
+- （老闆原話還有「不需要可以找其他商家」，但這句太直接，**不要對買家講**）
 
 ## 3.45 推薦產品和發連結
 
@@ -623,3 +677,8 @@
 - 老闆的回答：最新的 P2A14 oil filter 適合所有 Perodua 車型；漏油退貨用 original sealed 方式，原塑膠袋和原盒一起退回，我們收到後檢查
 - 已加進 3.4 節和車型適配表
 - 日期：2026-11-03
+
+### 16 個常見問題（老闆一次回答）
+- 機油 4L、SUV 5L、冷卻液 4-5L，都請買家查 owner manual；尺寸/零件號碼先問哪個零件，看照片，看不到才轉；推薦機油看車型發產品卡，不確定發 Shell/Castrol；標題沒寫車型 → 請買家稍等轉老闆（不再直接說不適合）；避震器左右本來不同（Myvi、Saga 除外），問有沒有買錯；價格貴回 OK；分開下單；分期自己試；有效期內；都是 ori；裝不上先查有沒有買錯再叫 foreman；restock 轉老闆；不送贈品
+- 已加進 3.4、3.44、3.46 節和車型適配步驟
+- 日期：2026-11-07
