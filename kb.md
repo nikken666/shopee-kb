@@ -92,6 +92,21 @@
 - EN：「Hi boss 🙏 for this return, please send back the full set (everything) & pack the item properly ya, better record a video while packing. Please write the return reason clearly before sending back. Once we receive the item, Shopee will refund you 👍」
 - 中：「老闆你好 🙏 這張退貨麻煩把整套（full set）寄回來，東西包好，最好打包時錄影片。退貨原因寫清楚了再寄回來哦。我們收到貨後 Shopee 就會退款給你 👍」
 
+## 老闆交代的跟進（2026-11-11，到 11/13 為止）
+
+這些買家之前只收到「客服在忙」，老闆已經給了答案。每次任務**除了 Not Replied，也要處理這份清單**：到那間店的聊天搜尋買家名字，**先看聊天紀錄，已經照下面回過就不要再傳**；還沒回的就照著回（用買家的語言）。11/13 之後這份清單就不用管了。
+
+| 買家 | 店 | 要回什麼 |
+|---|---|---|
+| ridzuanaziz213 | AUTOLAJU | SPayLater 還款要問 Shopee customer service，是 Shopee 負責的 |
+| nshzwniey97 | LU KERETA | 往上看他 11/07 起問了什麼（Myvi 碟盤），照知識庫回答；答不了列給老闆，不要再回「客服在忙」 |
+| har_bundle | LU KERETA | 只傳了 Viva 避震器訂單卡 → 問他有什麼問題 |
+| jinwei2001 | SparePartKU | 問 Mazda 6 是哪一年，再到 Product 分頁找適合的 starter 發給他；他傳的圖片要點開看 |
+| chianyap | LU KERETA | Perodua 冷卻液不用兌水，直接加就可以 |
+| yazidyusoff_89 | FADZIL MART | Perodua oil filter 適合所有 Perodua 車型，Myvi G3 可以用 |
+| diablowkk | AUTOLAJU | 退貨在 dispute 中：簡短客氣回一句，不爭論、不承諾 |
+| aza81 | AUTOLAJU | 請他用 Return & Refund，選「Return with original sealed condition」，整套退回 |
+
 ## 轉老闆時
 
 先回買家「客服在忙，會盡快回覆你」，然後在總結裡列出來，我會自己處理。
@@ -358,6 +373,9 @@
 - Toyota **Yaris 2020** 用 **CVT** 變速箱 → CVT fluid 適用
 - **機油容量**：一般轎車 **4 公升**就夠；**SUV 可能要 5 公升**。建議買家查自己的 **car owner manual book**
   - BM：「Biasanya 4 liter cukup bos, kalau SUV mungkin 5 liter. Boleh check juga dalam car owner manual book ye 👍」
+- **冷卻液不用兌水**：買家問 Perodua 冷卻液（coolant）要不要加水 → **不需要**，直接加就可以
+  - BM：「Tak perlu campur air bos, boleh terus guna ye 👍」
+  - 其他牌子的冷卻液不確定 → 回「客服在忙」，轉老闆
 - **冷卻液（coolant）容量**：通常 **4–5 公升**，請買家查 **car owner manual book** 確認
   - BM：「Biasanya coolant 4-5 liter bos, tapi lebih baik check dalam car owner manual book ye 👍」
 - **ATF**：一台車 **4 公升**一般足夠
@@ -366,7 +384,7 @@
 - 買家同時問機油和變速箱油（ATF）→ 先問他要的是 **oil filter** 還是 **auto filter**
 - **機油不包含 oil filter**，買家要的話可以另外加購
 - **油類（機油、ATF 等液體）寄東馬（Sabah、Sarawak）只能走 sea shipping**，通常 15 天以上
-- **最新的 P2A14 oil filter 適合所有 Perodua 車型**（Alza、Myvi、Axia、Bezza、Aruz、Ativa 等）。買家問 Perodua 的車能不能用這個 oil filter → 直接回可以
+- **Perodua 的 oil filter（包括最新的 P2A14）適合所有 Perodua 車型**（Alza、Myvi 各代包括 G3、Axia、Bezza、Aruz、Ativa 等）。買家問 Perodua 的車能不能用 Perodua oil filter → **直接回可以，不要轉老闆**
   - BM：「Boleh bos 👍 oil filter P2A14 ni boleh guna untuk semua model Perodua ye」
 - **漏油、壞貨退貨的包裝**：請買家用 **original sealed condition** 退回，就是**原本的塑膠袋和原盒**一起寄回，我們收到後會檢查
   - BM：「Tolong hantar balik dalam keadaan original sealed ye bos, dengan plastik & kotak asal sekali. Bila kami terima, kami akan check dulu 🙏」
@@ -528,6 +546,19 @@
 5. 知識庫裡沒有答案的問題
 6. 要求在 Shopee 以外交易（WhatsApp、轉帳等）—— 違反 Shopee 規定，不可答應
 
+## 4.4 更多回覆規則（老闆 2026-11-11 教的）
+
+- **SPayLater 什麼時候開始還款、分期怎麼還** → 這是 **Shopee 負責的，不是賣家**，請買家問 Shopee
+  - BM：「Untuk SPayLater, bos boleh tanya terus Shopee customer service ye, itu Shopee yang uruskan 🙏」
+- **買家只傳訂單卡或商品卡，沒說要問什麼** → 問他有什麼問題
+  - BM：「Hi bos 😊 ada apa boleh kami bantu untuk order ni?」
+- **買家要找某個零件（例如 Mazda 6 的 starter）** → 先問**車型和年份**，再到 Duoke 右邊的 **Product 分頁**找適合他車型的產品，**發產品卡**給他；找不到才轉老闆
+- **買家選了 Refund Only（例如漏油、Contents leaked）** → 請他改用 **Return & Refund**，原因選「**Return with original sealed condition**」，整套（full set）退回
+  - BM：「Bos, boleh guna Return & Refund ye, pilih "Return with original sealed condition" & hantar balik full set 🙏」
+- **退貨已經在 dispute、買家情緒激動** → 簡短客氣回一句，**不要爭論、不要承諾任何東西**
+  - BM：「Maaf atas kesulitan bos 🙏 kes ni Shopee tengah semak, kami ikut keputusan Shopee ye」
+- **「客服在忙」不可以對同一位買家連續回兩次**：如果之前已經回過「客服在忙」，買家的問題還沒答 → **先往上看他之前問了什麼，知識庫能答的就直接答**；真的答不了 → 不要再回「客服在忙」，在總結裡列給老闆
+
 ## 4.5 特殊對象
 
 - **Shopee sales team 的活動邀請**（名字是 shopee.salesteam 之類，內容是「OK to join November…」這種邀請參加活動）→ **直接回「No」**，**不要點任何連結或按鈕**
@@ -683,3 +714,8 @@
 - 機油 4L、SUV 5L、冷卻液 4-5L，都請買家查 owner manual；尺寸/零件號碼先問哪個零件，看照片，看不到才轉；推薦機油看車型發產品卡，不確定發 Shell/Castrol；標題沒寫車型 → 請買家稍等轉老闆（不再直接說不適合）；避震器左右本來不同（Myvi、Saga 除外），問有沒有買錯；價格貴回 OK；分開下單；分期自己試；有效期內；都是 ori；裝不上先查有沒有買錯再叫 foreman；restock 轉老闆；不送贈品
 - 已加進 3.4、3.44、3.46 節和車型適配步驟
 - 日期：2026-11-07
+
+### 11/11 老闆的回答
+- SPayLater 還款叫買家問 Shopee；只傳訂單卡就問他要問什麼；找零件先問車型年份再發 Product 產品卡；Perodua 冷卻液不用兌水；Perodua oil filter 適合所有 Perodua 車型；Refund Only 改用 Return & Refund（original sealed condition）；dispute 中情緒激動簡短回；不要連續回兩次「客服在忙」
+- 已加進 3.4、4.4 節
+- 日期：2026-11-11
