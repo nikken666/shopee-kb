@@ -502,6 +502,7 @@
 
 | 產品 | 車型 | 年份 | 適合？ | 記錄日期 |
 |---|---|---|---|---|
+| Perodua ATF D3-SP（原裝） | Perodua Myvi G3 | 2019 | ✅ 可以用 | 2026-11-11 |
 | P2A14 oil filter | 所有 Perodua 車型（包括 Alza） | — | ✅ 可以用（老闆確認） | 2026-11-03 |
 | mohamadhizir 問的那款 ATF | Mercedes B-Class W245 | — | ✅ 可以用（老闆確認） | 2026-11-02 |
 
