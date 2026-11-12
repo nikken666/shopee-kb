@@ -178,7 +178,7 @@
 | 店在哪裡？ | Selangor | 只說在 Selangor，叫買家在 Shopee 下單。**不要提自取、來店**，**絕對不能用「walk in」這個詞**（Shopee 敏感詞） |
 | 可以便宜一點嗎？ | 不可以，已經是最低價 | 語氣要客氣，不要冷冰冰 |
 | 是 original 嗎？ | 是，全部 original | |
-| 有 warranty 嗎？ | **看品牌**：NIKKEN JAPAN、KHYUNYUNG = **1 年**；GSP = **3 個月**；KYB RS 和原裝品牌 = 官方沒有 warranty，但**我們店給 15 天 warranty**（詳見 3.43 節） | **15 天內**：直接在 Shopee 申請 Return/Refund，退 full set；**超過 15 天但在 warranty 期內**：請買家再下單一次，用新訂單退回壞的（見 3.43 節）；超過 warranty 期限轉老闆 |
+| 有 warranty 嗎？ | **看品牌**：NIKKEN JAPAN、KHYUNYUNG = **1 年**；GSP = **3 個月**；KYB RS 和原裝品牌 = 官方沒有 warranty，但**我們店給 15 天 warranty**（詳見 3.43 節） | **一律**：請買家再下單一次，新貨到了用新訂單退回舊的壞的（full set），Shopee 會 refund（見 3.43 節）；超過 warranty 期限轉老闆 |
 | 怎麼安裝？ | 我們不教安裝，請買家拿去 workshop 裝 | |
 | 可以取消訂單嗎？ | 還沒 arrange shipment → 可以<br>已經 arrange shipment → 不可以 | 已安排運輸就無法取消 |
 | 可以改地址 / 顏色 / 款式嗎？ | 還沒 arrange shipment：<br>・改地址 → 買家在 Shopee 直接改<br>・改顏色/款式 → 取消訂單再重新下單<br>已經 arrange shipment → 不可以 | |
@@ -297,11 +297,9 @@
 - EN：「Original parts no warranty from factory boss, but our shop give 15 days warranty ya 👍」
 - 中：「Original 的東西原廠是沒有 warranty 的哦，不過我們店有給 15 天 warranty 👍」
 
-**Claim warranty（收到貨 15 天內）**
-- BM：「Boleh bos 👍 dalam 15 hari lepas terima barang boleh terus apply Return/Refund kat Shopee ye. Sebelum hantar balik, tolong record video masa packing & pastikan hantar balik satu set lengkap ye 🙏」
-- EN：「Can boss 👍 within 15 days after receive can apply Return/Refund in Shopee directly ya. Before send back, please record packing video & make sure send back full complete set 🙏」
-- 中：「可以的哦老闆 👍 收到貨 15 天內可以直接在 Shopee 申請 Return/Refund。寄回來之前記得錄打包影片，也要整套完整寄回哦 🙏」
-- 超過 15 天 → 看品牌 warranty（3.43 節）：還在 warranty 期內就請買家再下單一次退回壞的；超過期限才轉老闆
+**Claim warranty**
+- **一律**照 3.43 節：請買家再下單一次，新貨到了用新訂單退回舊的壞的，Shopee 會 refund
+- 超過 warranty 期限才轉老闆
 
 **怎麼安裝**
 - BM：「Maaf bos, kami x ada guide pemasangan 🙏 boleh bawa ke workshop untuk pasang ye 👍」
@@ -416,19 +414,18 @@
 
 - 買家問 warranty → **先看他問的是哪個產品、什麼品牌**（產品標題），再照上表回答。不知道是哪個產品 → 先問
 - 品牌不在上表 → 回「客服在忙」，轉老闆，**不要亂猜**
-- **收到貨 15 天內**有問題：照一般方式，在 Shopee 申請 Return/Refund，退貨前錄打包影片，**退 full set**
-- **超過 15 天、但還在 warranty 期內**（例如 1 年 warranty 的 NIKKEN JAPAN、KHYUNYUNG，或 3 個月的 GSP）：Shopee 已經不能直接退舊訂單，所以：
+- **⚠️ 所有 warranty 問題一律這樣處理**（不管是 15 天內還是超過 15 天，只要還在 warranty 期內）：
   1. 請買家**再下單一次**（同一個產品）
-  2. 收到新的之後，用**新訂單**申請 Return/Refund，把**壞掉的那個**整套（full set）寄回來，錄打包影片
-  3. 我們收到壞的之後，Shopee 會退新訂單的錢
-  - BM：「Boleh claim warranty bos 👍 sebab dah lebih 15 hari, bos kena order sekali lagi ye. Lepas terima barang baru, apply Return/Refund untuk order baru tu & hantar balik yang rosak full set, record video masa packing ye. Bila kami terima, Shopee akan refund 🙏」
-  - EN：「Can claim warranty boss 👍 since already more than 15 days, boss need to order one more time ya. After receive the new one, apply Return/Refund for the new order & send back the faulty one full set, record packing video ya. Once we receive, Shopee will refund 🙏」
-  - 中：「可以 claim warranty 的老闆 👍 因為已經超過 15 天，麻煩再下單一次。收到新的之後，用新訂單申請 Return/Refund，把壞的那個整套（full set）寄回來，記得錄打包影片。我們收到後 Shopee 就會退款 🙏」
+  2. **等新的貨到了**，用**新訂單**申請 Return/Refund，把**舊的壞的那個**整套（full set）寄回來，錄打包影片
+  3. 我們收到舊的之後，**Shopee 會 refund 給買家**
+  - BM：「Boleh claim warranty bos 👍 bos order sekali lagi ye. Bila barang baru sampai, apply Return/Refund untuk order baru tu & hantar balik yang lama (rosak) full set, record video masa packing ye. Bila kami terima, Shopee akan refund 🙏」
+  - EN：「Can claim warranty boss 👍 please order one more time ya. When the new one arrives, apply Return/Refund for the new order & send back the old faulty one full set, record packing video ya. Once we receive, Shopee will refund you 🙏」
+  - 中：「可以 claim warranty 的老闆 👍 麻煩再下單一次。新的貨到了之後，用新訂單申請 Return/Refund，把舊的壞的整套（full set）寄回來，記得錄打包影片。我們收到後 Shopee 就會退款給你 🙏」
 - **超過 warranty 期限** → 回「客服在忙」，轉老闆
 - 回覆範例（NIKKEN JAPAN / KHYUNYUNG）：
-  - BM：「Brand ni ada 1 tahun warranty ye bos 👍 kalau ada masalah boleh apply Return/Refund kat Shopee, record video masa packing & hantar balik full set ye 🙏」
-  - EN：「This brand got 1 year warranty boss 👍 if got problem can apply Return/Refund in Shopee, record packing video & send back full set ya 🙏」
-  - 中：「這個牌子有 1 年 warranty 哦老闆 👍 有問題可以在 Shopee 申請 Return/Refund，錄打包影片，整套（full set）寄回來哦 🙏」
+  - BM：「Brand ni ada 1 tahun warranty ye bos 👍 kalau ada masalah, bos order sekali lagi, bila barang baru sampai hantar balik yang lama full set, Shopee akan refund 🙏」
+  - EN：「This brand got 1 year warranty boss 👍 if got problem, order one more time, when the new one arrives send back the old one full set, Shopee will refund ya 🙏」
+  - 中：「這個牌子有 1 年 warranty 哦老闆 👍 有問題的話再下單一次，新的到了把舊的整套（full set）寄回來，Shopee 會退款 🙏」
 - 回覆範例（GSP）：把「1 年 / 1 tahun / 1 year」改成「3 個月 / 3 bulan / 3 months」
 
 ## 3.44 特殊情況怎麼回（老闆教的，2026-10-31）
@@ -538,7 +535,7 @@
 1. **適不適合我的車**：先查第 3.5 節和產品標題、圖片；**不確定**才轉老闆
 2. **商品壞了**：先照「壞貨處理流程」回覆；買家發影片或照片後轉老闆確認；**沒有開箱影片的轉老闆**
    **寄錯、少寄**：照第 3 節範例回覆（必須有開箱影片；沒有的轉老闆）
-   **Warranty 超過 15 天**：品牌有 1 年或 3 個月 warranty 的照 3.43 節「再下單一次」處理；超過 warranty 期限才轉老闆
+   **Warranty**：一律照 3.43 節「再下單一次、退回舊的」處理；超過 warranty 期限才轉老闆
    **沒收到貨**：轉老闆
    > ⚠️ 「不退換」只適用於買家改變主意，壞貨、寄錯不可以回「不能退」。
 3. 要求退款、額外折扣、送贈品
@@ -719,3 +716,8 @@
 - SPayLater 還款叫買家問 Shopee；只傳訂單卡就問他要問什麼；找零件先問車型年份再發 Product 產品卡；Perodua 冷卻液不用兌水；Perodua oil filter 適合所有 Perodua 車型；Refund Only 改用 Return & Refund（original sealed condition）；dispute 中情緒激動簡短回；不要連續回兩次「客服在忙」
 - 已加進 3.4、4.4 節
 - 日期：2026-11-11
+
+### Warranty 一律再下單
+- 老闆的指示：有 warranty 問題的一律叫買家再買一次，等新的貨到了把舊的退回來，Shopee 會 refund
+- 取代原本「15 天內直接退」的做法，已更新第 3 節、3.43 節
+- 日期：2026-11-12
