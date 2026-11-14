@@ -92,20 +92,19 @@
 - EN：「Hi boss 🙏 for this return, please send back the full set (everything) & pack the item properly ya, better record a video while packing. Please write the return reason clearly before sending back. Once we receive the item, Shopee will refund you 👍」
 - 中：「老闆你好 🙏 這張退貨麻煩把整套（full set）寄回來，東西包好，最好打包時錄影片。退貨原因寫清楚了再寄回來哦。我們收到貨後 Shopee 就會退款給你 👍」
 
-## 老闆交代的跟進（2026-11-11，到 11/13 為止）
+## 老闆交代的跟進（2026-11-14，到 11/16 為止）
 
-這些買家之前只收到「客服在忙」，老闆已經給了答案。每次任務**除了 Not Replied，也要處理這份清單**：到那間店的聊天搜尋買家名字，**先看聊天紀錄，已經照下面回過就不要再傳**；還沒回的就照著回（用買家的語言）。11/13 之後這份清單就不用管了。
+這些買家之前只收到「客服在忙」，老闆已經給了答案。每次任務**除了 Not Replied，也要處理這份清單**：到那間店的聊天搜尋買家名字，**先看聊天紀錄，已經照下面回過就不要再傳**；還沒回的就照著回（用買家的語言）。11/16 之後這份清單就不用管了。
 
 | 買家 | 店 | 要回什麼 |
 |---|---|---|
-| ridzuanaziz213 | AUTOLAJU | SPayLater 還款要問 Shopee customer service，是 Shopee 負責的 |
-| nshzwniey97 | LU KERETA | 往上看他 11/07 起問了什麼（Myvi 碟盤），照知識庫回答；答不了列給老闆，不要再回「客服在忙」 |
-| har_bundle | LU KERETA | 只傳了 Viva 避震器訂單卡 → 問他有什麼問題 |
-| jinwei2001 | SparePartKU | 問 Mazda 6 是哪一年，再到 Product 分頁找適合的 starter 發給他；他傳的圖片要點開看 |
-| chianyap | LU KERETA | Perodua 冷卻液不用兌水，直接加就可以 |
-| yazidyusoff_89 | FADZIL MART | Perodua oil filter 適合所有 Perodua 車型，Myvi G3 可以用 |
-| diablowkk | AUTOLAJU | 退貨在 dispute 中：簡短客氣回一句，不爭論、不承諾 |
-| aza81 | AUTOLAJU | 請他用 Return & Refund，選「Return with original sealed condition」，整套退回 |
+| kakmass | LU KERETA | 產品標題是 2005-2010，他的車是 2017 → 客氣說不適合。如果他已經買了，是買錯，不接受退換 |
+| syukri6009 | LU KERETA | Motul 法國製瓶蓋沒有 QR code 只有 SIRIM，越南製才有 QR code，兩種都是原裝 |
+| virgelstamaria | SparePartKU | Nikken starter 比原來的小 → 請他拍照片給我們看（新的和舊的、裝的位置），收到照片後列給老闆 |
+| shahhirzi | FADZIL MART | Honda ATF DW-1 可以用在 Civic FD 2007 |
+| shopee.meeling | DIRECT PARTS MY | Shopee 官方推廣 → 回「No」，不點任何連結 |
+
+**不要碰**：steveliew0331（AUTOLAJU）老闆自己接手。
 
 ## 轉老闆時
 
@@ -259,6 +258,8 @@
 2. 買家**沒講年份**（例如只說「Bezza facelift」）→ **先問年份**，例如「Bos punya Bezza tahun berapa ye?」
 3. 點開產品，看**標題**、**產品描述（文案）**和**產品圖片**上寫的適用車型和年份
 4. 標題、文案、圖片**有寫**買家的車型和年份（例如標題寫「Yaris 2014-2022」，買家問 Yaris 2020）→ 回答可以用
+   - 標題**有寫車型、但年份範圍不包括買家的年份**（例如標題 2005-2010，買家是 2017）→ **直接回不適合**（用下面「確定不適合」的講法），不用轉老闆
+   - 買家**已經買了**才發現年份不對 → 是買家自己買錯，不是我們的問題，照「改變主意不接受退換」客氣回，不要答應退換
 5. 標題、文案、圖片**都沒有寫**買家的車型 → **不要直接說不適合**，先請買家稍等，再轉老闆確認：
    - BM：「Sekejap ye bos, kami check dulu untuk kereta bos 🙏」
    - EN：「Wait a moment ya boss, we check for your car first 🙏」
@@ -382,6 +383,8 @@
 - 買家同時問機油和變速箱油（ATF）→ 先問他要的是 **oil filter** 還是 **auto filter**
 - **機油不包含 oil filter**，買家要的話可以另外加購
 - **油類（機油、ATF 等液體）寄東馬（Sabah、Sarawak）只能走 sea shipping**，通常 15 天以上
+- **Motul 瓶蓋有沒有 QR code / barcode 可以掃**：**法國製造**的瓶蓋**沒有 QR code，只有 SIRIM 標籤**；**越南製造**的瓶蓋才有 QR code。兩種都是正品 Motul
+  - BM：「Motul buatan France memang tak ada QR code kat penutup bos, cuma ada label SIRIM. Yang ada QR code tu buatan Vietnam. Dua-dua original ye 👍」
 - **Perodua 的 oil filter（包括最新的 P2A14）適合所有 Perodua 車型**（Alza、Myvi 各代包括 G3、Axia、Bezza、Aruz、Ativa 等）。買家問 Perodua 的車能不能用 Perodua oil filter → **直接回可以，不要轉老闆**
   - BM：「Boleh bos 👍 oil filter P2A14 ni boleh guna untuk semua model Perodua ye」
 - **漏油、壞貨退貨的包裝**：請買家用 **original sealed condition** 退回，就是**原本的塑膠袋和原盒**一起寄回，我們收到後會檢查
@@ -517,6 +520,7 @@
 
 | 產品 | 車型 | 年份 | 適合？ | 記錄日期 |
 |---|---|---|---|---|
+| Honda ATF DW-1 | Honda Civic FD | 2007 | ✅ 可以用（老闆確認） | 2026-11-14 |
 | Perodua ATF D3-SP（原裝） | Perodua Myvi G3 | 2019 | ✅ 可以用 | 2026-11-11 |
 | P2A14 oil filter | 所有 Perodua 車型（包括 Alza） | — | ✅ 可以用（老闆確認） | 2026-11-03 |
 | mohamadhizir 問的那款 ATF | Mercedes B-Class W245 | — | ✅ 可以用（老闆確認） | 2026-11-02 |
@@ -558,7 +562,7 @@
 
 ## 4.5 特殊對象
 
-- **Shopee sales team 的活動邀請**（名字是 shopee.salesteam 之類，內容是「OK to join November…」這種邀請參加活動）→ **直接回「No」**，**不要點任何連結或按鈕**
+- **Shopee 官方的推廣、活動邀請**（名字是 shopee.salesteam、shopee.meeling 之類 shopee.xxx，內容是邀請參加活動、Direct Stores、Overseas Shop Management 等）→ **直接回「No」**，**不要點任何連結或按鈕**
 - **其他 Shopee 官方訊息**（警告、違規通知、政策通知等）→ 不要回，在總結裡列給老闆看
 - 同一位買家在**不同店**都問了 → 每間店的聊天都要各自回覆
 
@@ -721,3 +725,10 @@
 - 老闆的指示：有 warranty 問題的一律叫買家再買一次，等新的貨到了把舊的退回來，Shopee 會 refund
 - 取代原本「15 天內直接退」的做法，已更新第 3 節、3.43 節
 - 日期：2026-11-12
+
+### 11/14 老闆的回答
+- 標題年份不包括買家年份 → 直接說不適合；已經買錯是買家的問題
+- Motul：法國製瓶蓋沒有 QR code 只有 SIRIM，越南製才有 QR code
+- Honda ATF DW-1 適合 Civic FD 2007
+- Shopee 官方推廣（shopee.meeling 等）一樣回 No
+- 日期：2026-11-14
