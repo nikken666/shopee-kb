@@ -102,6 +102,8 @@
 | syukri6009 | LU KERETA | Motul 法國製瓶蓋沒有 QR code 只有 SIRIM，越南製才有 QR code，兩種都是原裝 |
 | virgelstamaria | SparePartKU | Nikken starter 比原來的小 → 請他拍照片給我們看（新的和舊的、裝的位置），收到照片後列給老闆 |
 | shahhirzi | FADZIL MART | Honda ATF DW-1 可以用在 Civic FD 2007 |
+| azrie8991 | LU KERETA | Bezza 1.0 Auto 問 ATF，他發的是 Toyota ATF → 到 Product 分頁找 **Perodua ATF** 發產品卡給他 |
+| babeskinhq | AUTOLAJU | Nissan Vanette 化油器 warranty：先看 Order。訂單是 Cancelled → 告訴他這張訂單已取消沒辦法 claim，問有沒有其他訂單號碼；如果有已完成的訂單、而且購買日期還在 1 年 warranty 內 → 請他再下單一次，新貨到了把舊的 full set 退回來，Shopee 會 refund |
 | shopee.meeling | DIRECT PARTS MY | Shopee 官方推廣 → 回「No」，不點任何連結 |
 
 **不要碰**：steveliew0331（AUTOLAJU）老闆自己接手。
@@ -416,7 +418,12 @@
 | 原裝品牌（ORI Perodua / Proton / Toyota 等） | 官方沒有 warranty，**我們店給 15 天** |
 
 - 買家問 warranty → **先看他問的是哪個產品、什麼品牌**（產品標題），再照上表回答。不知道是哪個產品 → 先問
-- 品牌不在上表 → 回「客服在忙」，轉老闆，**不要亂猜**
+- 品牌不在上表 → 看**產品標題**有沒有寫 warranty（例如「1 year warranty」），照標題寫的期限算；標題也沒寫 → 回「客服在忙」，轉老闆，**不要亂猜**
+- **處理 warranty 前，先打開買家的 Order 分頁確認**：
+  1. **他有沒有真的買**：訂單是 Completed / 已收到才算。訂單是 **Cancelled** 或找不到訂單 → 客氣告訴他這張訂單已經取消，沒辦法 claim，問他有沒有其他訂單號碼
+     - BM：「Maaf bos 🙏 order ni status dia cancelled, jadi tak boleh claim warranty. Bos ada order number lain ke?」
+  2. **購買日期**：從訂單日期算，**還在 warranty 期內** → 照下面「再下單、退回舊的」處理
+  3. **已經超過 warranty 期限** → 回「客服在忙」，轉老闆
 - **⚠️ 所有 warranty 問題一律這樣處理**（不管是 15 天內還是超過 15 天，只要還在 warranty 期內）：
   1. 請買家**再下單一次**（同一個產品）
   2. **等新的貨到了**，用**新訂單**申請 Return/Refund，把**舊的壞的那個**整套（full set）寄回來，錄打包影片
@@ -553,6 +560,8 @@
   - BM：「Untuk SPayLater, bos boleh tanya terus Shopee customer service ye, itu Shopee yang uruskan 🙏」
 - **買家只傳訂單卡或商品卡，沒說要問什麼** → 問他有什麼問題
   - BM：「Hi bos 😊 ada apa boleh kami bantu untuk order ni?」
+- **買家的車和他發來的產品不同牌子**（例如 Perodua Bezza 的車，卻發來 Toyota ATF 的產品卡）→ 不要只說不適合，到 **Product 分頁**搜尋**他車子品牌的產品**（例如「Perodua ATF」），**發適合的產品卡**給他
+  - BM：「Untuk Bezza bos boleh guna ATF Perodua ni ye 👍」（再附上產品卡）
 - **買家要找某個零件（例如 Mazda 6 的 starter）** → 先問**車型和年份**，再到 Duoke 右邊的 **Product 分頁**找適合他車型的產品，**發產品卡**給他；找不到才轉老闆
 - **買家選了 Refund Only（例如漏油、Contents leaked）** → 請他改用 **Return & Refund**，原因選「**Return with original sealed condition**」，整套（full set）退回
   - BM：「Bos, boleh guna Return & Refund ye, pilih "Return with original sealed condition" & hantar balik full set 🙏」
@@ -731,4 +740,9 @@
 - Motul：法國製瓶蓋沒有 QR code 只有 SIRIM，越南製才有 QR code
 - Honda ATF DW-1 適合 Civic FD 2007
 - Shopee 官方推廣（shopee.meeling 等）一樣回 No
+- 日期：2026-11-14
+
+### 11/14 老闆的回答（二）
+- 車和產品不同牌子 → 到 Product 找對應品牌（例如 Perodua ATF）發給他
+- Warranty：先看有沒有真的買、購買日期和 warranty 期限（品牌表沒有就看產品標題）；在期限內 → 再下單、退回舊的；訂單取消 → 沒辦法 claim
 - 日期：2026-11-14
