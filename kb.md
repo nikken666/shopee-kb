@@ -85,12 +85,10 @@
 **Refund Only** 傳這則：
 - BM：「Hi bos 🙏 untuk order ni, boleh tolong cancel request Refund Only dulu ye. Lepas tu apply semula pilih Return & Refund, sebab pilih "Return with original sealed condition" atau "Outer packing damage", dan hantar balik barang full set (semua sekali, jangan tinggal apa-apa). Bila kami dah terima barang, Shopee akan refund ye 👍 Tolong record video masa packing ye bos」
 - EN：「Hi boss 🙏 for this order, please cancel the Refund Only request first ya. Then apply again choose Return & Refund, reason choose "Return with original sealed condition" or "Outer packing damage", and send back the item full set (everything, don't leave anything out). Once we receive the item, Shopee will refund you 👍 Please record a packing video also ya」
-- 中：「老闆你好 🙏 這張訂單麻煩先取消 Refund Only 的申請，再重新申請 Return & Refund，原因選「Return with original sealed condition」或「Outer packing damage」，然後把東西整套（full set）寄回來，什麼都不要漏。我們收到貨後 Shopee 就會退款給你 👍 打包時記得錄影片哦」
 
 **Return & Refund** 傳這則：
 - BM：「Hi bos 🙏 untuk return ni, tolong hantar balik full set (semua sekali) & pack barang elok-elok ye, kalau boleh record video masa packing. Tulis sebab return dengan jelas dulu baru hantar balik ye. Bila kami dah terima barang, Shopee akan refund 👍」
 - EN：「Hi boss 🙏 for this return, please send back the full set (everything) & pack the item properly ya, better record a video while packing. Please write the return reason clearly before sending back. Once we receive the item, Shopee will refund you 👍」
-- 中：「老闆你好 🙏 這張退貨麻煩把整套（full set）寄回來，東西包好，最好打包時錄影片。退貨原因寫清楚了再寄回來哦。我們收到貨後 Shopee 就會退款給你 👍」
 
 ## 老闆交代的跟進（2026-11-17，到 11/20 為止）
 
