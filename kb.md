@@ -36,7 +36,7 @@
 3. 看情況：
    - **知識庫裡有標準答案的**（開場白、出貨、到貨、現貨、original、COD、講價、warranty 怎麼申請、tracking 等）→ **直接回覆送出，不用問我**
    - **買家說 ok、thank you、tq、👍，或問題回答完後傳貼圖** → **回一個 Shopee 貼圖**（方法見下面「特殊訊息」）
-   - **不確定、知識庫沒寫、或屬於「轉給老闆」的** → 先回買家「客服在忙，會盡快回覆你」（用買家的語言，講法見知識庫第 4 節），記下來，繼續處理下一個
+   - **不確定、知識庫沒寫、或屬於「轉給老闆」的** → 先回買家「客服在忙，會盡快回覆你」（用馬來文或英文，講法見知識庫第 4 節），記下來，繼續處理下一個
 4. 不要每個聊天都停下來等我，**一直處理到 Not Replied 清單是空的為止**（見最上面第二重要）
 5. 全部處理完，給我**一份**總結：
    - 回了幾個（列出買家名字和你回了什麼）
@@ -78,7 +78,7 @@
    - 記下**買家名字、店名、Order ID、退款原因、剩餘時間（Remaining）**
    - 到**聊天**找到這位買家（在那間店的聊天裡搜尋買家名字）
    - 先看聊天紀錄：**之前已經傳過這則請求的，不要再傳**，只列在總結裡
-   - 還沒傳過的 → 用買家的語言，照**退款類型**傳下面對應的訊息（看不出語言就用 BM）
+   - 還沒傳過的 → 用馬來文或英文（買家用英文就用英文，其他用 BM），照**退款類型**傳下面對應的訊息
 5. **絕對不可以**在 Backlog 頁面點 Accept、Dispute、Refund 或任何按鈕。只能看，不能按
 6. 給我總結：每張退款單的**類型**、買家、店名、Order ID、原因、剩餘時間、有沒有傳訊息。**剩餘時間少於 1 天的放最上面標「緊急」**，我要自己決定 accept 還是 dispute
 
@@ -92,21 +92,25 @@
 - EN：「Hi boss 🙏 for this return, please send back the full set (everything) & pack the item properly ya, better record a video while packing. Please write the return reason clearly before sending back. Once we receive the item, Shopee will refund you 👍」
 - 中：「老闆你好 🙏 這張退貨麻煩把整套（full set）寄回來，東西包好，最好打包時錄影片。退貨原因寫清楚了再寄回來哦。我們收到貨後 Shopee 就會退款給你 👍」
 
-## 老闆交代的跟進（2026-11-14，到 11/16 為止）
+## 老闆交代的跟進（2026-11-17，到 11/20 為止）
 
-這些買家之前只收到「客服在忙」，老闆已經給了答案。每次任務**除了 Not Replied，也要處理這份清單**：到那間店的聊天搜尋買家名字，**先看聊天紀錄，已經照下面回過就不要再傳**；還沒回的就照著回（用買家的語言）。11/16 之後這份清單就不用管了。
+這些買家之前只收到「客服在忙」，老闆已經給了答案。每次任務**除了 Not Replied，也要處理這份清單**：到那間店的聊天搜尋買家名字，**先看完聊天紀錄，已經照下面回過就不要再傳**；還沒回的就照著回（用馬來文或英文）。11/20 之後這份清單就不用管了。
 
-| 買家 | 店 | 要回什麼 |
-|---|---|---|
-| kakmass | LU KERETA | 產品標題是 2005-2010，他的車是 2017 → 客氣說不適合。如果他已經買了，是買錯，不接受退換 |
-| syukri6009 | LU KERETA | Motul 法國製瓶蓋沒有 QR code 只有 SIRIM，越南製才有 QR code，兩種都是原裝 |
-| virgelstamaria | SparePartKU | Nikken starter 比原來的小 → 請他拍照片給我們看（新的和舊的、裝的位置），收到照片後列給老闆 |
-| shahhirzi | FADZIL MART | Honda ATF DW-1 可以用在 Civic FD 2007 |
-| azrie8991 | LU KERETA | Bezza 1.0 Auto 問 ATF，他發的是 Toyota ATF → 到 Product 分頁找 **Perodua ATF** 發產品卡給他 |
-| babeskinhq | AUTOLAJU | Nissan Vanette 化油器 warranty：先看 Order。訂單是 Cancelled → 告訴他這張訂單已取消沒辦法 claim，問有沒有其他訂單號碼；如果有已完成的訂單、而且購買日期還在 1 年 warranty 內 → 請他再下單一次，新貨到了把舊的 full set 退回來，Shopee 會 refund |
-| shopee.meeling | DIRECT PARTS MY | Shopee 官方推廣 → 回「No」，不點任何連結 |
+| 買家 | 要回什麼 |
+|---|---|
+| shud3803、firdauskamal78、loosooneng、ongkahfoo、wgikf2qyi3 | 退款、退貨問題：請他把東西包裝回原本的樣子，在 Shopee 申請 Return，選「Return with original sealed condition」，Shopee 會退款 |
+| kopiko_stores | 說不是原裝：我們賣的都是 original；不相信可以包裝回原樣在 Shopee 退貨，機油要未拆封 |
+| erikloh | 避震器的軸不一樣：看聊天紀錄和 Order 確認他的車型和買的產品；他買錯 → 不是我們的責任；我們寄錯 → 請他包裝回原樣退貨 |
+| cheong5801 | 裝上去有噪音：看 Order 算 warranty。還在期內 → 說轉給售後團隊請稍等，列給老闆；確定過期 → 告訴他已過期 |
+| izrafizah | 包裝投訴：道歉，說我們會改進包裝，運送途中有時會弄壞包裹 |
+| zulhilmi2099、zalayu | 很急：我們會盡快寄出 |
+| william1355、lawsinyee、ishhanna339、almezamat、kulang9572、zyragyra、zalayu | 適配問題：看聊天紀錄知道他的車型和要什麼零件，到 Product 分頁找有寫他車型的產品，發產品卡；找不到才列給老闆 |
+| noorhaninsaid | Myvi Gen3 避震器：到 Product 分頁找 Myvi Gen3 的 absorber，發產品卡 |
+| muhamadraisbinghazali | Kenari manual 2004：看他問的產品連結，標題有寫就照著回答；換 drive shaft 建議一起換 oil seal，可以到 Product 找 oil seal 發給他 |
+| firdaus6117 | Kembara 1.3 manual 2000 可以用 GSP Kembara drive shaft，到 Product 找這個產品發給他 |
+| mimie_suer、shahhirzi、cdeabdullah、adan2696_02、amirulsyazwan9843、brayonbrayon349、abiremo1987、gadgettoycollectionstore、seehuptan、ainashazira、dickybang、pakmatkzu、7kg76g0nbs、kabirhussin、kellyching99624 | 之前收到「客服在忙」的：**往上看完他問了什麼**，用現在的知識庫回答；還是答不了就列給老闆，**不要再回一次「客服在忙」** |
 
-**不要碰**：steveliew0331（AUTOLAJU）老闆自己接手。
+**不要碰**：msukor（老闆在處理）、steveliew0331（老闆接手）。
 
 ## 轉老闆時
 
@@ -139,7 +143,8 @@
 
 ## 2. 語言與語氣
 
-- **買家用什麼語言，就用什麼語言回覆**（BM / English / 中文 / 混著講）
+- **只用馬來文（BM）或英文回覆，不要用華語**。買家用馬來文就回馬來文，用英文就回英文；**買家用中文問 → 用英文回**
+  - （下面範例裡的中文句子只是給老闆看的翻譯，**不要發給買家**）
 - 語氣親切，要像**馬來西亞本地人**在回覆，不要像機器人或翻譯腔
 - 回覆要短，聊天口吻，一則訊息 1–3 句就好
 - 可以用少量表情符號 😊🙏👍，不要太多
@@ -179,7 +184,7 @@
 | 店在哪裡？ | Selangor | 只說在 Selangor，叫買家在 Shopee 下單。**不要提自取、來店**，**絕對不能用「walk in」這個詞**（Shopee 敏感詞） |
 | 可以便宜一點嗎？ | 不可以，已經是最低價 | 語氣要客氣，不要冷冰冰 |
 | 是 original 嗎？ | 是，全部 original | |
-| 有 warranty 嗎？ | **看品牌**：NIKKEN JAPAN、KHYUNYUNG = **1 年**；GSP = **3 個月**；KYB RS 和原裝品牌 = 官方沒有 warranty，但**我們店給 15 天 warranty**（詳見 3.43 節） | **一律**：請買家再下單一次，新貨到了用新訂單退回舊的壞的（full set），Shopee 會 refund（見 3.43 節）；超過 warranty 期限轉老闆 |
+| 有 warranty 嗎？ | **看品牌**：NIKKEN JAPAN、KHYUNYUNG = **1 年**；GSP = **3 個月**；KYB RS 和原裝品牌 = 官方沒有 warranty，但**我們店給 15 天 warranty**（詳見 3.43 節） | 先看訂單日期，算有沒有過期（見 3.43 節）：**還在期內** → 說會轉給售後團隊，請稍等，轉老闆；**確定過期** → 直接告訴他過期了 |
 | 怎麼安裝？ | 我們不教安裝，請買家拿去 workshop 裝 | |
 | 可以取消訂單嗎？ | 還沒 arrange shipment → 可以<br>已經 arrange shipment → 不可以 | 已安排運輸就無法取消 |
 | 可以改地址 / 顏色 / 款式嗎？ | 還沒 arrange shipment：<br>・改地址 → 買家在 Shopee 直接改<br>・改顏色/款式 → 取消訂單再重新下單<br>已經 arrange shipment → 不可以 | |
@@ -262,9 +267,9 @@
 4. 標題、文案、圖片**有寫**買家的車型和年份（例如標題寫「Yaris 2014-2022」，買家問 Yaris 2020）→ 回答可以用
    - 標題**有寫車型、但年份範圍不包括買家的年份**（例如標題 2005-2010，買家是 2017）→ **直接回不適合**（用下面「確定不適合」的講法），不用轉老闆
    - 買家**已經買了**才發現年份不對 → 是買家自己買錯，不是我們的問題，照「改變主意不接受退換」客氣回，不要答應退換
-5. 標題、文案、圖片**都沒有寫**買家的車型 → **不要直接說不適合**，先請買家稍等，再轉老闆確認：
-   - BM：「Sekejap ye bos, kami check dulu untuk kereta bos 🙏」
-   - EN：「Wait a moment ya boss, we check for your car first 🙏」
+5. 標題、文案、圖片**都沒有寫**買家的車型 → 到 **Product 分頁**搜尋「**他的車型 + 他要的零件**」（例如「Myvi absorber」），找到標題有寫他車型的產品就**發產品卡給他**：
+   - BM：「Untuk kereta bos boleh guna yang ni ye 👍」（再附上產品卡）
+   - Product 裡也找不到 → 回「客服在忙」，轉老闆
 6. 有寫車型但年份範圍模糊、寫法看不懂 → 回「客服在忙，會盡快回覆你」，**轉老闆**
 
 ⚠️ **不要跟買家解釋你是怎麼判斷的**。不能說「因為標題沒有寫」「產品描述沒提到」之類的話，直接客氣地講結果就好。
@@ -301,8 +306,7 @@
 - 中：「Original 的東西原廠是沒有 warranty 的哦，不過我們店有給 15 天 warranty 👍」
 
 **Claim warranty**
-- **一律**照 3.43 節：請買家再下單一次，新貨到了用新訂單退回舊的壞的，Shopee 會 refund
-- 超過 warranty 期限才轉老闆
+- 照 3.43 節：先看訂單日期算 warranty；還在期內 → 轉售後團隊（轉老闆）；確定過期 → 直接說過期
 
 **怎麼安裝**
 - BM：「Maaf bos, kami x ada guide pemasangan 🙏 boleh bawa ke workshop untuk pasang ye 👍」
@@ -374,9 +378,8 @@
 - Toyota **Yaris 2020** 用 **CVT** 變速箱 → CVT fluid 適用
 - **機油容量**：一般轎車 **4 公升**就夠；**SUV 可能要 5 公升**。建議買家查自己的 **car owner manual book**
   - BM：「Biasanya 4 liter cukup bos, kalau SUV mungkin 5 liter. Boleh check juga dalam car owner manual book ye 👍」
-- **冷卻液不用兌水**：買家問 Perodua 冷卻液（coolant）要不要加水 → **不需要**，直接加就可以
+- **冷卻液不用兌水**：我們賣的**所有牌子**冷卻液（coolant）都**不需要加水**，直接加就可以
   - BM：「Tak perlu campur air bos, boleh terus guna ye 👍」
-  - 其他牌子的冷卻液不確定 → 回「客服在忙」，轉老闆
 - **冷卻液（coolant）容量**：通常 **4–5 公升**，請買家查 **car owner manual book** 確認
   - BM：「Biasanya coolant 4-5 liter bos, tapi lebih baik check dalam car owner manual book ye 👍」
 - **ATF**：一台車 **4 公升**一般足夠
@@ -422,20 +425,16 @@
 - **處理 warranty 前，先打開買家的 Order 分頁確認**：
   1. **他有沒有真的買**：訂單是 Completed / 已收到才算。訂單是 **Cancelled** 或找不到訂單 → 客氣告訴他這張訂單已經取消，沒辦法 claim，問他有沒有其他訂單號碼
      - BM：「Maaf bos 🙏 order ni status dia cancelled, jadi tak boleh claim warranty. Bos ada order number lain ke?」
-  2. **購買日期**：從訂單日期算，**還在 warranty 期內** → 照下面「再下單、退回舊的」處理
-  3. **已經超過 warranty 期限** → 回「客服在忙」，轉老闆
-- **⚠️ 所有 warranty 問題一律這樣處理**（不管是 15 天內還是超過 15 天，只要還在 warranty 期內）：
-  1. 請買家**再下單一次**（同一個產品）
-  2. **等新的貨到了**，用**新訂單**申請 Return/Refund，把**舊的壞的那個**整套（full set）寄回來，錄打包影片
-  3. 我們收到舊的之後，**Shopee 會 refund 給買家**
-  - BM：「Boleh claim warranty bos 👍 bos order sekali lagi ye. Bila barang baru sampai, apply Return/Refund untuk order baru tu & hantar balik yang lama (rosak) full set, record video masa packing ye. Bila kami terima, Shopee akan refund 🙏」
-  - EN：「Can claim warranty boss 👍 please order one more time ya. When the new one arrives, apply Return/Refund for the new order & send back the old faulty one full set, record packing video ya. Once we receive, Shopee will refund you 🙏」
-  - 中：「可以 claim warranty 的老闆 👍 麻煩再下單一次。新的貨到了之後，用新訂單申請 Return/Refund，把舊的壞的整套（full set）寄回來，記得錄打包影片。我們收到後 Shopee 就會退款給你 🙏」
-- **超過 warranty 期限** → 回「客服在忙」，轉老闆
-- 回覆範例（NIKKEN JAPAN / KHYUNYUNG）：
-  - BM：「Brand ni ada 1 tahun warranty ye bos 👍 kalau ada masalah, bos order sekali lagi, bila barang baru sampai hantar balik yang lama full set, Shopee akan refund 🙏」
-  - EN：「This brand got 1 year warranty boss 👍 if got problem, order one more time, when the new one arrives send back the old one full set, Shopee will refund ya 🙏」
-  - 中：「這個牌子有 1 年 warranty 哦老闆 👍 有問題的話再下單一次，新的到了把舊的整套（full set）寄回來，Shopee 會退款 🙏」
+  2. **購買日期**：從訂單日期算到今天，對照這個產品的 warranty 期限，**算清楚**
+  3. **還在 warranty 期內** → 跟買家說會轉給**售後團隊**處理，請他稍等，然後**轉老闆**（老闆會決定怎麼處理）
+     - BM：「Baik bos, kami akan serahkan kepada team after-sales kami untuk uruskan. Mohon tunggu sekejap ye 🙏」
+     - EN：「Ok boss, we will pass this to our after-sales team to handle. Please wait a moment ya 🙏」
+  4. **已經超過 warranty 期限** → **確認清楚真的過期了**（訂單日期、warranty 期限都要對過）才直接告訴買家已經過期。沒算清楚不要講，不然買家會以為我們騙人
+     - BM：「Maaf bos 🙏 kami dah check, order ni dibeli pada [日期], warranty [期限] dah tamat pada [日期]」
+- 回覆範例（只是回答「有沒有 warranty」，NIKKEN JAPAN / KHYUNYUNG）：
+  - BM：「Brand ni ada 1 tahun warranty ye bos 👍」
+  - EN：「This brand got 1 year warranty boss 👍」
+  - 中：「這個牌子有 1 年 warranty 哦老闆 👍」
 - 回覆範例（GSP）：把「1 年 / 1 tahun / 1 year」改成「3 個月 / 3 bulan / 3 months」
 
 ## 3.44 特殊情況怎麼回（老闆教的，2026-10-31）
@@ -460,7 +459,7 @@
 - **退貨要退全套**，不能只退濾芯
 - **冷卻液（coolant）**跟機油一樣，寄 Sabah/Sarawak 只能走 sea shipping；普通零件可以正常寄
 - **同一個買家在兩間店都問** → 兩邊都要回，但**用不同的講法**，不要像複製貼上
-- **不要用「batalkan」或「cancel」這兩個字**（Duoke 會攔截，訊息發不出去）。要講取消訂單時換個說法，例如「tak teruskan order」「tarik balik order」
+- **不要用「batalkan」這個字**（Duoke 會攔截）。取消訂單用「**cancel**」（老闆決定）
 - **Duoke 會攔截一模一樣的文字**：同一句範本連續發給很多買家會被擋。每次發送都要**稍微改寫**（換順序、換幾個字），意思不變就好
 - **買家說 ok、thank you、tq 或傳貼圖（問題已經回答完）** → **回一個 Shopee 貼圖**，不用打字（發法見操作指令「特殊訊息」）
 
@@ -528,6 +527,7 @@
 
 | 產品 | 車型 | 年份 | 適合？ | 記錄日期 |
 |---|---|---|---|---|
+| GSP Kembara / Kembara DVVT drive shaft | Perodua Kembara 1.3 manual | 2000 | ✅ 可以用（老闆確認） | 2026-11-17 |
 | Honda ATF DW-1 | Honda Civic FD | 2007 | ✅ 可以用（老闆確認） | 2026-11-14 |
 | Perodua ATF D3-SP（原裝） | Perodua Myvi G3 | 2019 | ✅ 可以用 | 2026-11-11 |
 | P2A14 oil filter | 所有 Perodua 車型（包括 Alza） | — | ✅ 可以用（老闆確認） | 2026-11-03 |
@@ -547,13 +547,35 @@
 1. **適不適合我的車**：先查第 3.5 節和產品標題、圖片；**不確定**才轉老闆
 2. **商品壞了**：先照「壞貨處理流程」回覆；買家發影片或照片後轉老闆確認；**沒有開箱影片的轉老闆**
    **寄錯、少寄**：照第 3 節範例回覆（必須有開箱影片；沒有的轉老闆）
-   **Warranty**：一律照 3.43 節「再下單一次、退回舊的」處理；超過 warranty 期限才轉老闆
+   **Warranty**：照 3.43 節，還在期內就說轉售後團隊、請稍等，轉老闆
    **沒收到貨**：轉老闆
    > ⚠️ 「不退換」只適用於買家改變主意，壞貨、寄錯不可以回「不能退」。
 3. 要求退款、額外折扣、送贈品
 4. 買家生氣、威脅給負評、投訴
 5. 知識庫裡沒有答案的問題
 6. 要求在 Shopee 以外交易（WhatsApp、轉帳等）—— 違反 Shopee 規定，不可答應
+
+## 4.3 更多回覆規則（老闆 2026-11-17 教的）
+
+- **⚠️ 所有退款、退貨退款問題一律**：請買家把東西**包裝回原本的樣子**，在 Shopee 申請 Return，選「**Return with original sealed condition**」，Shopee 會退款給他
+  - BM：「Bos boleh pack balik barang macam asal, lepas tu apply Return kat Shopee, pilih "Return with original sealed condition". Shopee akan refund ye 🙏」
+- **買家說我們賣的不是原裝、不相信** → 我們賣的都是 original；不相信的話可以退貨：包裝回原本的樣子在 Shopee 申請 Return。**機油要確保還沒拆封**
+  - BM：「Barang kami semua original bos 🙏 kalau bos masih ragu, boleh pack balik macam asal & apply Return kat Shopee. Untuk minyak, pastikan belum buka seal ye」
+- **買家說收到的零件跟舊的不一樣** →
+  1. 先看聊天紀錄有沒有寫車型，沒有就問車型和年份
+  2. 打開他的 **Order** 看他買的是哪個產品，對照他的車型
+  3. **買家自己訂錯** → 不是我們的責任，客氣說明
+  4. **我們寄錯** → 請他包裝回原本的樣子，在 Shopee 申請退貨
+- **包裝問題、收到時外箱破損** → 道歉，說我們會改進；有時 SPX 運送途中會弄壞包裹，我們也不希望買家收到有損壞的產品
+  - BM：「Maaf atas kesulitan bos 🙏 kami akan tambah baik packing kami. Kadang-kadang parcel rosak masa penghantaran, kami pun tak nak bos terima barang yang rosak」
+- **買家催單、很急** → 「我們會盡快寄出」
+- **Voucher** → 有些產品有 voucher，請買家看產品頁上有沒有
+  - BM：「Ada sesetengah produk ada voucher bos, boleh check kat page produk ye 👍」
+- **換 drive shaft** → 先看買家問的是哪個產品；**通常換 drive shaft 都建議一起換 oil seal**
+  - BM：「Biasanya tukar drive shaft kami cadangkan tukar oil seal sekali ye bos 👍」
+- **歐洲車**（BMW、Mercedes、VW 等）→ 我們**暫時只賣機油、冷卻液（coolant）和 ATF**，其他零件沒有
+  - BM：「Untuk kereta Eropah, buat masa ni kami cuma jual minyak enjin, coolant & ATF ye bos 🙏」
+- **Restock、缺貨** → 回「客服在忙」，轉老闆
 
 ## 4.4 更多回覆規則（老闆 2026-11-11 教的）
 
@@ -758,4 +780,9 @@
 - 不可以自己報價格（eseygologolo 把單個價格說成一對）
 - 垃圾訊息不回
 - 發錯人（cyc1022）→ 加強送出前確認
+- 日期：2026-11-17
+
+### 11/17 老闆一次回答 16 題
+- 標題沒寫車型 → 到 Product 找他車型的零件發給他；只用馬來文或英文回，中文買家用英文；取消用 cancel；不信原裝可退貨（機油未拆封）；零件不一樣先查車型和訂單，買錯不是我們的責任；warranty 先算日期，期內轉售後團隊、確定過期直接說；包裝問題道歉會改進；有些產品有 voucher；所有冷卻液不用兌水；drive shaft 建議一起換 oil seal；Kembara 1.3 manual 2000 可用 GSP drive shaft；歐洲車只賣機油、coolant、ATF；退款退貨一律原封包裝 Return with original sealed condition
+- ⚠️ warranty 不再自動叫買家「再下單」，改成轉售後團隊（老闆）
 - 日期：2026-11-17
