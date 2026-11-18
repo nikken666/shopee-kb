@@ -556,6 +556,11 @@
 
 - **⚠️ 所有退款、退貨退款問題一律**：請買家把東西**包裝回原本的樣子**，在 Shopee 申請 Return，選「**Return with original sealed condition**」，Shopee 會退款給他
   - BM：「Bos boleh pack balik barang macam asal, lepas tu apply Return kat Shopee, pilih "Return with original sealed condition". Shopee akan refund ye 🙏」
+- **⚠️ 機油爆開、漏油** → **先點開買家的照片、影片，看他的訊息**，確認是機油爆了或漏油，就請他用 **Return & Refund** 退貨退款，原因選「**Return with original sealed condition**」或「**Outer packing damage**」，整套（full set）退回
+  - BM：「Maaf atas kesulitan bos 🙏 boleh apply Return & Refund kat Shopee, pilih "Return with original sealed condition" atau "Outer packing damage", & hantar balik full set ye. Shopee akan refund 👍」
+  - EN：「Sorry for the trouble boss 🙏 please apply Return & Refund in Shopee, choose "Return with original sealed condition" or "Outer packing damage", & send back the full set ya. Shopee will refund you 👍」
+  - 中：「不好意思老闆 🙏 麻煩在 Shopee 申請 Return & Refund，原因選「Return with original sealed condition」或「Outer packing damage」，整套（full set）寄回，Shopee 會退款給你 👍」
+  - 照片看不清楚、看不出是不是漏油 → 請他再拍清楚一點的照片或影片
 - **買家說我們賣的不是原裝、不相信** → 我們賣的都是 original；不相信的話可以退貨：包裝回原本的樣子在 Shopee 申請 Return。**機油要確保還沒拆封**
   - BM：「Barang kami semua original bos 🙏 kalau bos masih ragu, boleh pack balik macam asal & apply Return kat Shopee. Untuk minyak, pastikan belum buka seal ye」
 - **買家說收到的零件跟舊的不一樣** →
@@ -787,3 +792,8 @@
 ### 語言（修正）
 - 老闆的修正：顧客用什麼語言，我們就用什麼語言回（取代 11/17「不要用華語」）
 - 日期：2026-11-17
+
+### 機油爆開、漏油
+- 老闆的指示：看顧客照片或訊息，機油爆了或漏油 → 用 original sealed condition 或 outer packing damage 申請 Return & Refund
+- 已加進 4.3 節
+- 日期：2026-11-18
