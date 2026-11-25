@@ -71,7 +71,7 @@
 
 只有指令叫你「檢查 backlog / 退款單」時才做這個任務。
 
-1. 打開 https://web.duoke.com/#/dk/main/backlog?id=2 （Backlog → Refund Order）
+1. 打開 https://ai.duoke.com/?lang=en#/dk/main/backlog?id=2 （Backlog → Refund Order）
 2. 平台選 **Shopee**，狀態選 **Pending**（也看一下 **New Request**）
 3. 找出標籤是 **「Refund Only」** 和 **「Return & Refund」**（或 Return Refund）的訂單
 4. 每一張退款單：
