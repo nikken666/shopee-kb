@@ -376,6 +376,11 @@
 - **Auto filter 有沒有賣要看車型**：先問買家車型和年份，到 Product 分頁搜尋那個車型的 auto filter，有就發連結；找不到就照「不確定」處理（回客服在忙，轉老闆）
 - 買家同時問機油和變速箱油（ATF）→ 先問他要的是 **oil filter** 還是 **auto filter**
 - **機油不包含 oil filter**，買家要的話可以另外加購
+- **⚠️ 買家買了「機油 + oil filter」，但沒收到 oil filter** → 先請他發**開箱影片**（照少寄規則），然後給他兩個選擇：
+  1. 在 Shopee 申請 refund，**把退款金額改成 RM5**（就是 oil filter 的錢）
+  2. 或者整套**包裝回原本的樣子**退回給我們
+  - BM：「Maaf bos 🙏 boleh hantar unboxing video dulu ye. Lepas tu bos boleh pilih: (1) apply refund kat Shopee & tukar amount refund kepada RM5 untuk oil filter, atau (2) pack balik semua macam asal & return kepada kami 👍」
+  - EN：「Sorry boss 🙏 please send the unboxing video first ya. Then you can choose: (1) apply refund in Shopee & change the refund amount to RM5 for the oil filter, or (2) pack everything back as original & return to us 👍」
 - **油類（機油、ATF 等液體）寄東馬（Sabah、Sarawak）只能走 sea shipping**，通常 15 天以上
 - **Motul 瓶蓋有沒有 QR code / barcode 可以掃**：**法國製造**的瓶蓋**沒有 QR code，只有 SIRIM 標籤**；**越南製造**的瓶蓋才有 QR code。兩種都是正品 Motul
   - BM：「Motul buatan France memang tak ada QR code kat penutup bos, cuma ada label SIRIM. Yang ada QR code tu buatan Vietnam. Dua-dua original ye 👍」
@@ -823,4 +828,8 @@
 ### Warranty 依品牌 + 換貨方式（修正）
 - 老闆的指示：GSP 3 個月、NIKKEN 1 年、KYB 15 天；沒品牌或雜牌（steering rack、starter）看產品圖片、標題、描述有沒有寫 warranty period；claim 方式是再買一次、退回壞的（換貨），讓買家放心 Shopee 會退款
 - 取代 11/17「轉售後團隊」的做法
+- 日期：2026-11-27
+
+### 機油 + oil filter 少寄 filter
+- 老闆的指示：買家買機油 + oil filter 但沒收到 filter → 可以在 Shopee refund 金額改成 RM5，或整套包裝回原樣退回
 - 日期：2026-11-27
