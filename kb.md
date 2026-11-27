@@ -94,25 +94,9 @@
 - BM：「Hi bos 🙏 untuk return ni, tolong hantar balik full set (semua sekali) & pack barang elok-elok ye, kalau boleh record video masa packing. Tulis sebab return dengan jelas dulu baru hantar balik ye. Bila kami dah terima barang, Shopee akan refund 👍」
 - EN：「Hi boss 🙏 for this return, please send back the full set (everything) & pack the item properly ya, better record a video while packing. Please write the return reason clearly before sending back. Once we receive the item, Shopee will refund you 👍」
 
-## 老闆交代的跟進（2026-11-17，到 11/20 為止）
+## 老闆交代的跟進
 
-這些買家之前只收到「客服在忙」，老闆已經給了答案。每次任務**除了待回覆清單，也要處理這份清單**：到那間店的聊天搜尋買家名字，**先看完聊天紀錄，已經照下面回過就不要再傳**；還沒回的就照著回（用買家的語言）。11/20 之後這份清單就不用管了。
-
-| 買家 | 要回什麼 |
-|---|---|
-| shud3803、firdauskamal78、loosooneng、ongkahfoo、wgikf2qyi3 | 退款、退貨問題：請他把東西包裝回原本的樣子，在 Shopee 申請 Return，選「Return with original sealed condition」，Shopee 會退款 |
-| kopiko_stores | 說不是原裝：我們賣的都是 original；不相信可以包裝回原樣在 Shopee 退貨，機油要未拆封 |
-| erikloh | 避震器的軸不一樣：看聊天紀錄和 Order 確認他的車型和買的產品；他買錯 → 不是我們的責任；我們寄錯 → 請他包裝回原樣退貨 |
-| cheong5801 | 裝上去有噪音：看 Order 算 warranty。還在期內 → 說轉給售後團隊請稍等，列給老闆；確定過期 → 告訴他已過期 |
-| izrafizah | 包裝投訴：道歉，說我們會改進包裝，運送途中有時會弄壞包裹 |
-| zulhilmi2099、zalayu | 很急：我們會盡快寄出 |
-| william1355、lawsinyee、ishhanna339、almezamat、kulang9572、zyragyra、zalayu | 適配問題：看聊天紀錄知道他的車型和要什麼零件，到 Product 分頁找有寫他車型的產品，發產品卡；找不到才列給老闆 |
-| noorhaninsaid | Myvi Gen3 避震器：到 Product 分頁找 Myvi Gen3 的 absorber，發產品卡 |
-| muhamadraisbinghazali | Kenari manual 2004：看他問的產品連結，標題有寫就照著回答；換 drive shaft 建議一起換 oil seal，可以到 Product 找 oil seal 發給他 |
-| firdaus6117 | Kembara 1.3 manual 2000 可以用 GSP Kembara drive shaft，到 Product 找這個產品發給他 |
-| mimie_suer、shahhirzi、cdeabdullah、adan2696_02、amirulsyazwan9843、brayonbrayon349、abiremo1987、gadgettoycollectionstore、seehuptan、ainashazira、dickybang、pakmatkzu、7kg76g0nbs、kabirhussin、kellyching99624 | 之前收到「客服在忙」的：**往上看完他問了什麼**，用現在的知識庫回答；還是答不了就列給老闆，**不要再回一次「客服在忙」** |
-
-**不要碰**：msukor（老闆在處理）、steveliew0331（老闆接手）。
+目前沒有。
 
 ## 轉老闆時
 
@@ -185,7 +169,7 @@
 | 店在哪裡？ | Selangor | 只說在 Selangor，叫買家在 Shopee 下單。**不要提自取、來店**，**絕對不能用「walk in」這個詞**（Shopee 敏感詞） |
 | 可以便宜一點嗎？ | 不可以，已經是最低價 | 語氣要客氣，不要冷冰冰 |
 | 是 original 嗎？ | 是，全部 original | |
-| 有 warranty 嗎？ | **看品牌**：NIKKEN JAPAN、KHYUNYUNG = **1 年**；GSP = **3 個月**；KYB RS 和原裝品牌 = 官方沒有 warranty，但**我們店給 15 天 warranty**（詳見 3.43 節） | 先看訂單日期，算有沒有過期（見 3.43 節）：**還在期內** → 說會轉給售後團隊，請稍等，轉老闆；**確定過期** → 直接告訴他過期了 |
+| 有 warranty 嗎？ | **看品牌**：NIKKEN = **1 年**；KHYUNYUNG = **1 年**；GSP = **3 個月**；KYB = **15 天**；原裝品牌 = 官方沒有，店家給 **15 天**；沒品牌的看產品圖片、標題、描述（詳見 3.43 節） | 先看訂單日期算有沒有過期：**還在期內** → 請買家再買一次、新的到了退回舊的，Shopee 會退款；**確定過期** → 直接告訴他過期了 |
 | 怎麼安裝？ | 我們不教安裝，請買家拿去 workshop 裝 | |
 | 可以取消訂單嗎？ | 還沒 arrange shipment → 可以<br>已經 arrange shipment → 不可以 | 已安排運輸就無法取消 |
 | 可以改地址 / 顏色 / 款式嗎？ | 還沒 arrange shipment：<br>・改地址 → 買家在 Shopee 直接改<br>・改顏色/款式 → 取消訂單再重新下單<br>已經 arrange shipment → 不可以 | |
@@ -307,7 +291,7 @@
 - 中：「Original 的東西原廠是沒有 warranty 的哦，不過我們店有給 15 天 warranty 👍」
 
 **Claim warranty**
-- 照 3.43 節：先看訂單日期算 warranty；還在期內 → 轉售後團隊（轉老闆）；確定過期 → 直接說過期
+- 照 3.43 節：先看訂單日期算 warranty；還在期內 → 再買一次、退回舊的（換貨），Shopee 會退款；確定過期 → 直接說過期
 
 **怎麼安裝**
 - BM：「Maaf bos, kami x ada guide pemasangan 🙏 boleh bawa ke workshop untuk pasang ye 👍」
@@ -428,7 +412,7 @@
 | NIKKEN JAPAN | **1 年** |
 | KHYUNYUNG | **1 年** |
 | GSP | **3 個月** |
-| KYB RS | 官方沒有 warranty，**我們店給 15 天** |
+| KYB | **15 天** |
 | 原裝品牌（ORI Perodua / Proton / Toyota 等） | 官方沒有 warranty，**我們店給 15 天** |
 | **機油（engine oil）** | **沒有 warranty，不能退款** |
 
@@ -440,14 +424,18 @@
   - BM：「Maaf bos 🙏 untuk minyak enjin memang tak boleh refund ye」
   - EN：「Sorry boss 🙏 engine oil cannot be refunded ya」
   - （例外：**收到時就爆開、漏油**的，照 4.3 節走 Return & Refund）
-- 品牌不在上表 → 看**產品標題**有沒有寫 warranty（例如「1 year warranty」），照標題寫的期限算；標題也沒寫 → 回「客服在忙」，轉老闆，**不要亂猜**
+- **沒有標品牌、或是雜牌的產品**（通常是 **steering rack、starter**）→ 先看**產品圖片、product name（標題）、description（描述）**有沒有寫 **warranty period**，照上面寫的期限算；都沒寫 → 回「客服在忙」，轉老闆，**不要亂猜**
 - **處理 warranty 前，先打開買家的 Order 分頁確認**：
   1. **他有沒有真的買**：訂單是 Completed / 已收到才算。訂單是 **Cancelled** 或找不到訂單 → 客氣告訴他這張訂單已經取消，沒辦法 claim，問他有沒有其他訂單號碼
      - BM：「Maaf bos 🙏 order ni status dia cancelled, jadi tak boleh claim warranty. Bos ada order number lain ke?」
   2. **購買日期**：從訂單日期算到今天，對照這個產品的 warranty 期限，**算清楚**
-  3. **還在 warranty 期內** → 跟買家說會轉給**售後團隊**處理，請他稍等，然後**轉老闆**（老闆會決定怎麼處理）
-     - BM：「Baik bos, kami akan serahkan kepada team after-sales kami untuk uruskan. Mohon tunggu sekejap ye 🙏」
-     - EN：「Ok boss, we will pass this to our after-sales team to handle. Please wait a moment ya 🙏」
+  3. **還在 warranty 期內** → 用「**換貨**」的方式 claim：
+     1. 請買家**再下單買一次**同一個產品
+     2. **新的貨到了**，用新訂單申請 Return/Refund，把**之前壞掉的那個**整套（full set）寄回來，錄打包影片
+     3. **讓買家放心：Shopee 會退款給他**，所以等於免費換一個新的
+     - BM：「Boleh claim warranty bos 👍 caranya bos order sekali lagi ye. Bila barang baru sampai, apply Return/Refund untuk order baru tu & hantar balik yang lama (rosak) full set, record video masa packing. Jangan risau, Shopee akan refund kepada bos 🙏」
+     - EN：「Can claim warranty boss 👍 please order one more time. When the new one arrives, apply Return/Refund for the new order & send back the old faulty one full set, record packing video ya. Don't worry, Shopee will refund you 🙏」
+     - 中：「可以 claim warranty 的老闆 👍 麻煩再下單一次，新的到了之後用新訂單申請 Return/Refund，把壞掉的舊的整套（full set）寄回來，記得錄打包影片。放心，Shopee 會退款給你的 🙏」
   4. **已經超過 warranty 期限** → **確認清楚真的過期了**（訂單日期、warranty 期限都要對過）才直接告訴買家已經過期。沒算清楚不要講，不然買家會以為我們騙人
      - BM：「Maaf bos 🙏 kami dah check, order ni dibeli pada [日期], warranty [期限] dah tamat pada [日期]」
 - 回覆範例（只是回答「有沒有 warranty」，NIKKEN JAPAN / KHYUNYUNG）：
@@ -566,7 +554,7 @@
 1. **適不適合我的車**：先查第 3.5 節和產品標題、圖片；**不確定**才轉老闆
 2. **商品壞了**：先照「壞貨處理流程」回覆；買家發影片或照片後轉老闆確認；**沒有開箱影片的轉老闆**
    **寄錯、少寄**：照第 3 節範例回覆（必須有開箱影片；沒有的轉老闆）
-   **Warranty**：照 3.43 節，還在期內就說轉售後團隊、請稍等，轉老闆
+   **Warranty**：照 3.43 節自己處理（換貨方式），不用轉老闆；品牌和期限都查不到才轉
    **沒收到貨**：轉老闆
    > ⚠️ 「不退換」只適用於買家改變主意，壞貨、寄錯不可以回「不能退」。
 3. 要求退款、額外折扣、送贈品
@@ -830,4 +818,9 @@
 
 ### 原裝零件、機油的 warranty
 - 老闆的指示：原裝零件（Perodua / Toyota Genuine Parts 等）買了超過 15 天 → 一律說原裝產品沒有 warranty，店家只給 15 天；機油本來就不能退款
+- 日期：2026-11-27
+
+### Warranty 依品牌 + 換貨方式（修正）
+- 老闆的指示：GSP 3 個月、NIKKEN 1 年、KYB 15 天；沒品牌或雜牌（steering rack、starter）看產品圖片、標題、描述有沒有寫 warranty period；claim 方式是再買一次、退回壞的（換貨），讓買家放心 Shopee 會退款
+- 取代 11/17「轉售後團隊」的做法
 - 日期：2026-11-27
