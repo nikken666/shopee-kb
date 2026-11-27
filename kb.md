@@ -377,6 +377,10 @@
 ## 3.4 產品知識（老闆教的，可以直接回答）
 
 - Toyota **Yaris 2020** 用 **CVT** 變速箱 → CVT fluid 適用
+- **⚠️ 機油（engine oil）適不適合我的車** → **一律回適合**，不用查標題、不用轉老闆（只限機油；ATF、冷卻液、零件照原本的適配規則）
+  - BM：「Boleh guna untuk kereta bos ye 👍」
+  - EN：「Can use for your car boss 👍」
+  - 中：「可以用的哦老闆 👍」
 - **機油容量**：一般轎車 **4 公升**就夠；**SUV 可能要 5 公升**。建議買家查自己的 **car owner manual book**
   - BM：「Biasanya 4 liter cukup bos, kalau SUV mungkin 5 liter. Boleh check juga dalam car owner manual book ye 👍」
 - **冷卻液不用兌水**：我們賣的**所有牌子**冷卻液（coolant）都**不需要加水**，直接加就可以
@@ -801,3 +805,7 @@
 - 老闆的指示：看顧客照片或訊息，機油爆了或漏油 → 用 original sealed condition 或 outer packing damage 申請 Return & Refund
 - 已加進 4.3 節
 - 日期：2026-11-18
+
+### 機油適配一律適合
+- 老闆的指示：engine oil 顧客問是否適合他的車，都說適合
+- 日期：2026-11-27
