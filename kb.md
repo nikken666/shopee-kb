@@ -395,7 +395,13 @@
 - **油類（機油、ATF 等液體）寄東馬（Sabah、Sarawak）只能走 sea shipping**，通常 15 天以上
 - **Motul 瓶蓋有沒有 QR code / barcode 可以掃**：**法國製造**的瓶蓋**沒有 QR code，只有 SIRIM 標籤**；**越南製造**的瓶蓋才有 QR code。兩種都是正品 Motul
   - BM：「Motul buatan France memang tak ada QR code kat penutup bos, cuma ada label SIRIM. Yang ada QR code tu buatan Vietnam. Dua-dua original ye 👍」
-- **Perodua 的 oil filter（包括最新的 P2A14）適合所有 Perodua 車型**（Alza、Myvi 各代包括 G3、Axia、Bezza、Aruz、Ativa 等）。買家問 Perodua 的車能不能用 Perodua oil filter → **直接回可以，不要轉老闆**
+- **⚠️ Perodua oil filter**：我們賣的是**最新的 Perodua filter P2A14，適合所有 Perodua 車型**（Alza、Myvi 各代包括 G3、Axia、Bezza、Aruz、Ativa、Kancil、Viva、Kelisa、Kenari、Kembara 等）
+  - **買家問適不適合他的 Perodua 車** → **一律回適合**，不要轉老闆
+    - BM：「Boleh bos 👍 ni oil filter Perodua terbaru P2A14, sesuai untuk semua model Perodua ye」
+    - EN：「Can boss 👍 this is the latest Perodua filter P2A14, suitable for all Perodua models ya」
+  - **買家收到貨後說不適合、裝不上** → 一律回：這是最新的 P2A14，適合所有 Perodua 車型，請找 **foreman（師傅）**安裝。**不要答應退換**
+    - BM：「Bos, ni oil filter Perodua terbaru P2A14, memang sesuai untuk semua model Perodua ye 🙏 boleh minta foreman tolong pasang 👍」
+    - EN：「Boss, this is the latest Perodua filter P2A14, suitable for all Perodua models 🙏 can ask a foreman to help install ya 👍」
   - BM：「Boleh bos 👍 oil filter P2A14 ni boleh guna untuk semua model Perodua ye」
 - **漏油、壞貨退貨的包裝**：請買家用 **original sealed condition** 退回，就是**原本的塑膠袋和原盒**一起寄回，我們收到後會檢查
   - BM：「Tolong hantar balik dalam keadaan original sealed ye bos, dengan plastik & kotak asal sekali. Bila kami terima, kami akan check dulu 🙏」
@@ -808,4 +814,8 @@
 
 ### 機油適配一律適合
 - 老闆的指示：engine oil 顧客問是否適合他的車，都說適合
+- 日期：2026-11-27
+
+### Perodua filter P2A14
+- 老闆的指示：顧客問 Perodua filter 適不適合他的 Perodua 車 → 都說適合；收到貨說不適合 → 說我們的是最新 P2A14、適合所有 Perodua 車型，叫他找 foreman 安裝
 - 日期：2026-11-27
