@@ -430,8 +430,16 @@
 | GSP | **3 個月** |
 | KYB RS | 官方沒有 warranty，**我們店給 15 天** |
 | 原裝品牌（ORI Perodua / Proton / Toyota 等） | 官方沒有 warranty，**我們店給 15 天** |
+| **機油（engine oil）** | **沒有 warranty，不能退款** |
 
 - 買家問 warranty → **先看他問的是哪個產品、什麼品牌**（產品標題），再照上表回答。不知道是哪個產品 → 先問
+- **⚠️ 原裝零件（Perodua Genuine Parts、Toyota Genuine Parts 等原廠零件）買了超過 15 天才說有問題** → **一律**告訴買家：原裝產品官方沒有 warranty，我們店家只給 15 天 warranty，已經超過了。**不用轉老闆**（先看 Order 確認購買日期真的超過 15 天）
+  - BM：「Maaf bos 🙏 barang original memang tak ada warranty dari kilang, kedai kami cuma bagi warranty 15 hari je. Order bos dah lebih 15 hari ye」
+  - EN：「Sorry boss 🙏 original parts have no warranty from the manufacturer, our shop only gives 15 days warranty. Your order is already more than 15 days ya」
+- **⚠️ 機油（engine oil）** → **本來就不能退款、沒有 warranty**。買家用過後說有問題、想退 → 客氣說明機油不能退款
+  - BM：「Maaf bos 🙏 untuk minyak enjin memang tak boleh refund ye」
+  - EN：「Sorry boss 🙏 engine oil cannot be refunded ya」
+  - （例外：**收到時就爆開、漏油**的，照 4.3 節走 Return & Refund）
 - 品牌不在上表 → 看**產品標題**有沒有寫 warranty（例如「1 year warranty」），照標題寫的期限算；標題也沒寫 → 回「客服在忙」，轉老闆，**不要亂猜**
 - **處理 warranty 前，先打開買家的 Order 分頁確認**：
   1. **他有沒有真的買**：訂單是 Completed / 已收到才算。訂單是 **Cancelled** 或找不到訂單 → 客氣告訴他這張訂單已經取消，沒辦法 claim，問他有沒有其他訂單號碼
@@ -818,4 +826,8 @@
 
 ### Perodua filter P2A14
 - 老闆的指示：顧客問 Perodua filter 適不適合他的 Perodua 車 → 都說適合；收到貨說不適合 → 說我們的是最新 P2A14、適合所有 Perodua 車型，叫他找 foreman 安裝
+- 日期：2026-11-27
+
+### 原裝零件、機油的 warranty
+- 老闆的指示：原裝零件（Perodua / Toyota Genuine Parts 等）買了超過 15 天 → 一律說原裝產品沒有 warranty，店家只給 15 天；機油本來就不能退款
 - 日期：2026-11-27
